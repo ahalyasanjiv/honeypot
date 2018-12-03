@@ -41,3 +41,4 @@ TOP 5 Attacks Signatures:
 5. ET SCAN Suspicious inbound to MSSQL port 1433 (1 times)
 
 ## Unresolved Questions Raised by Data Collected
+How were there unknown IP addresses for 26 attackers? 
