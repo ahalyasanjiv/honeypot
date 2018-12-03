@@ -22,23 +22,23 @@ sudo git clone https://github.com/threatstream/mhn.git
 The third issue I encountered was getting attacks to appear on the MHN application. After searching online for possible fixes, I followed instructions from a MHN Troubleshooting Guide (https://bit.ly/2rpXrM1) and decided to used the Zenmap application instead of ```nmap``` on the command line.
 
 ## Summary of Data Collected
-- Number of Attacks: 825
+- Number of Attacks: 3096
 - Number of Malware Samples: 0
 
 
 **Top 5 Attacker IPs**
 1. 66.108.67.162 (144 attacks)
-2. [?] (26 attacks)
-3. 167.99.133.253 (11 attacks)
-4. 104.248.29.221 (9 attacks)  
-5. 104.248.61.100 (8 attacks)
+2. 109.248.9.103 (109 attacks)
+3. 58.218.213.156 (97 attacks)
+4. 142.93.6.77 (61 attacks)
+5. 104.248.29.221 (58 attacks)
 
 **Top 5 Attacks Signatures**
-1. ET DROP Dshield Block Listed Source group 1 (12 times)
-2. ET SCAN Suspicious inbound to PostgreSQL port 5432 (3 times)
-3. ET SCAN NMAP OS Detection Probe (2 times)
-4. ET CINS Active Threat Intelligence Poor Reputation IP UDP group 92 (1 times)
-5. ET SCAN Suspicious inbound to MSSQL port 1433 (1 times)
+1. ET DROP Dshield Block Listed Source group 1 (158 times)
+2. ET SCAN Sipvicious User-Agent Detected (friendly-scanner) (10 times)
+3. ET SCAN Suspicious inbound to mySQL port 3306 (9 times)
+4. ET SCAN Sipvicious Scan (9 times)
+5. ET CINS Active Threat Intelligence Poor Reputation IP TCP group 10 (8 times)
 
 ## Unresolved Questions Raised by Data Collected
 - What caused 26 attackers to have unknown IP addresses?
