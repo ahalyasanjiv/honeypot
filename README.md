@@ -1,6 +1,11 @@
 # Project 9 - Honeypot
 
 ## Honeypot Deployed
+I deployed 3 different types of honeypots (Dionaea, Snort, and Cowrie) using 3 virtual machines.
+Dionaea over HTTP: ``` mhn-honeypot-1 ```
+Snort: ``` mhn-honeypot-2 ```
+Cowrie: ``` mhn-honeypot-1 ```
+
 
 ## Issues encountered
 One of the first issues I encountered was creating a project on my Google Cloud Platform account. I later realized that the particular gmail account I was using tied to an organization and did not allow for projects to be created, so I used another account instead.
@@ -14,7 +19,7 @@ sudo git clone https://github.com/threatstream/mhn.git
 The third issue I encountered was getting attacks to appear on the MHN application. Instead of using ```nmap``` on the command line, I used the Zenmap application instead.
 
 ## Summary of Data Collected
-Number of Attacks: 486
+Number of Attacks: 562
 Number of Malware Samples: 0
 
 
