@@ -7,7 +7,7 @@ Dionaea over HTTP: ``` mhn-honeypot-1 ```
 
 Snort: ``` mhn-honeypot-2 ```
 
-Cowrie: ``` mhn-honeypot-1 ```
+Cowrie: ``` mhn-honeypot-3 ```
 
 
 ## Issues encountered
