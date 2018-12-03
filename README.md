@@ -26,14 +26,14 @@ The third issue I encountered was getting attacks to appear on the MHN applicati
 - Number of Malware Samples: 0
 
 
-TOP 5 Attacker IPs:
+**Top 5 Attacker IPs**
 1. 66.108.67.162 (144 attacks)
 2. [?] (26 attacks)
 3. 167.99.133.253 (11 attacks)
 4. 104.248.29.221 (9 attacks)  
 5. 104.248.61.100 (8 attacks)
 
-TOP 5 Attacks Signatures:
+**Top 5 Attacks Signatures**
 1. ET DROP Dshield Block Listed Source group 1 (12 times)
 2. ET SCAN Suspicious inbound to PostgreSQL port 5432 (3 times)
 3. ET SCAN NMAP OS Detection Probe (2 times)
