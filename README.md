@@ -22,7 +22,7 @@ sudo git clone https://github.com/threatstream/mhn.git
 The third issue I encountered was getting attacks to appear on the MHN application. After searching online for possible fixes, I followed instructions from a MHN Troubleshooting Guide (https://bit.ly/2rpXrM1) and decided to used the Zenmap application instead of ```nmap``` on the command line.
 
 ## Summary of Data Collected
-Number of Attacks: 562
+Number of Attacks: 630
 Number of Malware Samples: 0
 
 
@@ -41,4 +41,4 @@ TOP 5 Attacks Signatures:
 5. ET SCAN Suspicious inbound to MSSQL port 1433 (1 times)
 
 ## Unresolved Questions Raised by Data Collected
-How were there unknown IP addresses for 26 attackers? 
+What caused 26 attackers to have unknown IP addresses?
