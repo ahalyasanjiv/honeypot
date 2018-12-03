@@ -22,7 +22,7 @@ sudo git clone https://github.com/threatstream/mhn.git
 The third issue I encountered was getting attacks to appear on the MHN application. After searching online for possible fixes, I followed instructions from a MHN Troubleshooting Guide (https://bit.ly/2rpXrM1) and decided to used the Zenmap application instead of ```nmap``` on the command line.
 
 ## Summary of Data Collected
-- Number of Attacks: 823
+- Number of Attacks: 825
 - Number of Malware Samples: 0
 
 
