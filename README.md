@@ -11,9 +11,9 @@ Cowrie: ``` mhn-honeypot-3 ```
 
 
 ## Issues encountered
-One of the first issues I encountered was creating a project on my Google Cloud Platform account. I later realized that the particular gmail account I was using tied to an organization and did not allow for projects to be created, so I used another account instead.
+One of the first issues I encountered was creating a project on my Google Cloud Platform account. I later realized that the particular Gmail account I was using was under an organization and did not allow for projects to be created, so I used another account instead.
 
-The second issue I encountered happened when I was installing the MHN Admin Application. The github that I cloned according to the instructions in the assignment had a faulty script (it was cloning a repository that no longer existed). The TA emailed us the fixed command for cloning the link from Github:
+The second issue I encountered happened when I was installing the MHN Admin Application. The Github repository that I cloned according to the instructions in the assignment had a faulty script (it was cloning a repository that no longer existed). The TA emailed us the fixed command for cloning the link from Github:
 
 ```
 sudo git clone https://github.com/threatstream/mhn.git
