@@ -3,11 +3,11 @@
 ## Honeypot Deployed
 I deployed 3 different types of honeypots (Dionaea, Snort, and Cowrie) using 3 virtual machines.
 
-Dionaea over HTTP: ``` mhn-honeypot-1 ```
+Dionaea over HTTP: a low interaction, server side honeypot that tries to trap malware samples.
 
-Snort: ``` mhn-honeypot-2 ```
+Snort: an intrusion prevention system that can do real-time traffic analysis and packet logging.
 
-Cowrie: ``` mhn-honeypot-3 ```
+Cowrie: a honeypot that logs brute force attacks and the attacker's shell interaction.
 
 
 ## Issues encountered
