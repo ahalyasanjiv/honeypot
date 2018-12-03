@@ -1,6 +1,6 @@
 # Project 9 - Honeypot
 
-## Honeypot Deployed
+## Honeypots Deployed
 I deployed 3 different types of honeypots (Dionaea, Snort, and Cowrie) using 3 virtual machines.
 
 - **Dionaea over HTTP**: a low interaction, server side honeypot that tries to trap malware samples.
