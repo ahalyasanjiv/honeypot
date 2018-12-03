@@ -23,6 +23,7 @@ The third issue I encountered was getting attacks to appear on the MHN applicati
 
 ## Summary of Data Collected
 Number of Attacks: 678
+
 Number of Malware Samples: 0
 
 
