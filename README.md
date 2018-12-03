@@ -19,7 +19,7 @@ The second issue I encountered happened when I was installing the MHN Admin Appl
 sudo git clone https://github.com/threatstream/mhn.git
 ```
 
-The third issue I encountered was getting attacks to appear on the MHN application. Instead of using ```nmap``` on the command line, I used the Zenmap application instead.
+The third issue I encountered was getting attacks to appear on the MHN application. After searching online for possible fixes, I followed instructions from a MHN Troubleshooting Guide (https://bit.ly/2rpXrM1) and decided to used the Zenmap application instead of ```nmap``` on the command line.
 
 ## Summary of Data Collected
 Number of Attacks: 562
